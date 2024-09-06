@@ -21,7 +21,7 @@ Stock price prediction is a critical task in the financial domain, with implicat
 - **Source**: Yahoo Finance
 - **Stock**: Apple Inc. (AAPL)
 - **Date Range**: July 15, 2005 - May 15, 2023
-- **Columns**:
+- **Columns**:  
 • Open - Open price of a stock is the initial price at which it starts trading at the beginning of a trading day.  
 • High - The high price refers to the maximum price at which the stock was traded throughout a trading day.  
 • Low - The low price is the minimum price at which the stock was traded throughout a trading day.  
