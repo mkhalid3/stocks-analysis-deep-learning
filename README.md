@@ -10,7 +10,7 @@ This project focuses on predicting stock price changes using various deep learni
 - [Models Implemented](#models-implemented)
 - [Results](#results)
 - [Conclusion](#conclusion)
-- [References](#references)
+- [Reseach Paper](#research-paper)
 
 ## Project Overview
 
@@ -22,13 +22,13 @@ Stock price prediction is a critical task in the financial domain, with implicat
 - **Stock**: Apple Inc. (AAPL)
 - **Date Range**: July 15, 2005 - May 15, 2023
 - **Columns**:
-• Open - Open price of a stock is the initial price at which it starts trading at the beginning of a trading day.
-• High - The high price refers to the maximum price at which the stock was traded throughout a trading day.
-• Low - The low price is the minimum price at which the stock was traded throughout a trading day.
-• Close - The Close Price is the last price at which a stock is traded on a particular day.
-• Volume - Volume is measured as the total number of shares bought and sold during a given trading period.
+• Open - Open price of a stock is the initial price at which it starts trading at the beginning of a trading day.  
+• High - The high price refers to the maximum price at which the stock was traded throughout a trading day.  
+• Low - The low price is the minimum price at which the stock was traded throughout a trading day.  
+• Close - The Close Price is the last price at which a stock is traded on a particular day.  
+• Volume - Volume is measured as the total number of shares bought and sold during a given trading period.  
 
-The dataset consists of 4489 rows and 7 columns, capturing the daily stock prices of Apple Inc.
+The dataset consists of 4489 rows and 7 columns, capturing the daily stock prices of Apple Inc.  
 
 ## Methodology
 
